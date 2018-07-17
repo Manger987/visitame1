@@ -6,6 +6,6 @@ module.exports = {
     clientSecret:'AiREw_meqlHkwnQSQlITB27l'
   },
   mongodb:{
-    dbURI:'mongodb://manger:1234@ds249299.mlab.com:49299/visitame'
+    dbURI:'mongodb://manger:1q2w3e4r@ds139951.mlab.com:39951/visitame-test'
   }
 };
